@@ -1,0 +1,12 @@
+Package: SRMERS
+Type: Package
+Title: Semi-Parametric Shape-Restricted Fixed/Mixed Effect Regression Spline
+Version: 0.1.0
+Author: Qing Yin <qiy25@pitt.edu>
+Maintainer: Qing Yin <qiy25@pitt.edu>
+Imports: splines2, stats, lme4, lmerTest, nloptr, dplyr, MASS, coneproj, Matrix
+Description: Use I-spline and C-spline basis functions to fit fixed/mixed effect regression spline; return test statistics from 4 tests, including test for increasing, test for decreasing, test for convex and test for concave; generate the I-spline and C-spline bases; bootstrap the null distribution for each test statistic.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
