@@ -62,7 +62,7 @@ medModel <- SRSplineMed(data = data.sim.med, nBasis = 5,
 
 You may also use the functions LRMed (binary exposure) or LRmed2 (continuous exposure) to perform the mediation analysis using the VanderWeele's approach. Please see the example:
 ```{r, eval = F}
-medModel <- LRMed(data = gdsp.sim.ynull, 
+medModel <- LRMed(data = data.sim.med, 
                   exposure = "pesticide1", 
                   mediator = "hormone", 
                   outcome = "ySim", 
