@@ -72,6 +72,10 @@ medModel <- LRMed(data = data.sim.med,
                   mValue = 0.15)
 ```
 
+Acknowledgement:
+
+Thank you for the support and help from my advisors, Dr. Shyamal D. Peddada, Dr. Jennifer J. Adibi, and Dr. Jong H. Jeong, at University of Pittsburgh in developing this R package.
+
 References:
 
     1. Yin Q, Xun X, Peddada S, Adibi JJ. Shape Detection Using Semi-Parametric Shape-Restricted Mixed Effects Regression Spline with Applications. Sankhya B 2021; 83(S1): 65-85.
