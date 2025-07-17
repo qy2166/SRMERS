@@ -78,6 +78,6 @@ Thank you for the support and help from my advisors, Dr. Shyamal D. Peddada, Dr.
 
 References:
 
-    1. Yin Q, Xun X, Peddada SD, Adibi JJ. Shape Detection Using Semi-Parametric Shape-Restricted Mixed Effects Regression Spline with Applications. Sankhya B 2021; 83(S1): 65-85.
+    1. Yin Q, Xun X, Peddada SD, Adibi JJ (2021). Shape detection using semi-parametric shape-restricted mixed effects regression spline with applications. Sankhya B 83(S1):65-85.
     2. VanderWeele TJ. Explanation In Causal Inference : Methods for Mediation and Interaction. Oxford University Press, New York. 2015.
-    3. Yin Q, Jeong JH, Qin X, Peddada SD, Adibi JJ. Mediation Analysis using Semi-parametric Shape-Restricted Regression with Applications. arXiv:2310.09185 [stat.ME] 2023.
+    3. Yin Q, Jeong JH, Qin X, Peddada SD, Adibi JJ (2024). Mediation Analysis using Semi-parametric Shape-Restricted Regression with Applications. Sankhya B 86(2):669-689.
